@@ -17,14 +17,20 @@ m  E.g. History of Mexico has a few “citations needed”.
 # Implementation Notes
 
 1- Count function is named get_citations_needed_count
+
     **get_citations_needed takes in a url and returns an integer**
+
 2-  Report function is named get_citations_needed_report
+
     **get_citations_needed_report takes in a url and returns a string**
-the string should be formatted with each citation needed on own line, in order found.
-3- Module os  named scraper.py
+
+the string is formatted with each citation needed on own line, in order found.
+
+3- Module is named scraper.py
 
 
-
+## how to use ?
+just enter the url that you want to see it's citations 
 
 
 
